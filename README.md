@@ -39,4 +39,7 @@ We feed a lesser Resolution of a number of successive snapshots of the states in
 
 ![decay](/pic/n.png)
 
+# Calculating Loss:
+
+![loss](/pic/1.png)
 
